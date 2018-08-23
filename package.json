@@ -61,7 +61,7 @@
     "type": "git",
     "url": "https://github.com/coryforsythe/atom-cfn.git"
   },
-  "version": "1.0.6",
+  "version": "1.0.7",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [

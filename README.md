@@ -18,4 +18,4 @@ To install the atom-cfn module simply instruct the Atom Pacakage Manager to perf
 
 ## Usage
 
-Once installed, the pacakge adds the commands cloudformation:Validate and cloudformation:Launch Stack to atom.  Run them from a JSON or YAML template for validation feedback from the API or to launch the template as a new stack.
+Once installed, the pacakge adds the commands cloudformation:Validate, cloudformation:Launch Stack, and cloudformation:Create Change Set to atom.  Run them from a JSON or YAML template for validation feedback from the API or to launch the template as a new stack.
